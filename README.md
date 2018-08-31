@@ -15,13 +15,16 @@ https://desktop.github.com/
 1. Open as Brackets project in Explorer or 
     File -> Open Folder in Brackets
 
-2. New File
+2. Make some New File
 
 # Commit & Push at Github Desktop
 
 1. Commit
+<img src="https://github.com/louisahn/phaser/blob/master/img/commit.png" width="600">
 
 2. Push 
+<img src="https://github.com/louisahn/phaser/blob/master/img/push.png" width="600">
+
 
 # Access to other's Github repository
 1. File - > Clone Repository -> URL tab
