@@ -40,5 +40,11 @@ https://desktop.github.com/
 6. Pull (for coworkers)
 
 # phaser
-Comming soon
-....
+1. Emmet
+
+2. Autocompletion
+refer to: http://www.html5gamedevs.com/topic/35475-phaser-auto-completion-with-brackets/
+
+3. Make your first game
+https://phaser.io/tutorials/making-your-first-phaser-2-game
+
