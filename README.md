@@ -10,13 +10,6 @@ https://desktop.github.com/
 
 5. Repository -> Show in Explorer/Finder
 
-# Brackets
-
-1. Open as Brackets project in Explorer or 
-    File -> Open Folder in Brackets
-
-2. Make some New File
-
 # Commit & Push at Github Desktop
 
 1. Commit
@@ -39,8 +32,16 @@ https://desktop.github.com/
 
 6. Pull (for coworkers)
 
-# phaser
-1. Emmet
+# Brackets
+
+1. How to remove error icons in Brackets
+https://stackoverflow.com/questions/46949949/how-to-remove-error-icons-in-brackets
+
+2. Emmet extension
+
+
+# phaser demo
+1. Phaser Chains extention
 
 2. Autocompletion
 refer to: http://www.html5gamedevs.com/topic/35475-phaser-auto-completion-with-brackets/
