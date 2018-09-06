@@ -49,3 +49,36 @@ refer to: http://www.html5gamedevs.com/topic/35475-phaser-auto-completion-with-b
 3. Make your first game
 https://phaser.io/tutorials/making-your-first-phaser-2-game
 
+
+# Game Links (Fall 2017)
+Team 1: https://masahiroward.github.io/PrismaticChameleon/   
+
+Team 2: http://2dfightinggame.com  
+
+Team 3: https://dclove123.github.io/Glow/Game/   
+
+Team 4: https://kiwisaurus.github.io  
+
+Team 5: https://ngcruess.github.io/gameDev/  
+
+Team 6: https://smona.github.io/wellspring/public/   
+
+Team 7: https://ogimusprime.github.io/School-Project-02/  
+
+Team 8: http://ianmobbs.com/Defend-the-Throne/  
+
+Team 9: http://haydenc36.github.io/monks-and-monsters  
+
+Team 10: https://gmr006.github.io/CyberCity/  
+
+Team 11: https://chigg.github.io/   
+
+Team 13: https://mumonk.github.io/Team13-Trepidation/  
+
+Team 14: https://colbypowers.github.io/game1/game1.html  
+
+Team 15: https://vcchenl4.github.io/main_game/  
+
+Team 16: https://eddycaballero.github.io/   
+
+Team 17: https://claykelly.github.io/The-Heist-Game/ 
